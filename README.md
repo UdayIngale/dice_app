@@ -1,4 +1,4 @@
 # dice_app
 A random number generator
-Website URL:-  https://udayingale.github.io/vitual_dice/
+Website URL:-  https://udayingale.github.io/virtual_dice/
 
