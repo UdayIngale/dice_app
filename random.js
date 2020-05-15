@@ -5,9 +5,9 @@ let genrateRandomNo = function(){
     let newNo = Math.floor(randmNo)
     console.log(newNo)
 
-    document.getElementById("place").innerHTML = newNo;
+    document.getElementById("para").innerHTML = newNo;
 
 }
 let resetRandomNo = function(){
-    document.getElementById("place").innerHTML = 'X';
+    document.getElementById("para").innerHTML = '';
 }

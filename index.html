@@ -5,25 +5,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dice num Generator</title>
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet">
+ 
 </head>
 <body>
-    <h1><p class="headline">Click the button below to create a random number</p></h1>
-    <div class="buttonbar">
-        <input id="btn1" type="button" 
-        name="Btn1" 
-        value="Generate"
-        onclick="genrateRandomNo()"
-        >
-        <input id="btn2" type="button" 
-        name="Btn2" 
-        value="Reset"
-        onclick="resetRandomNo()"
-        >
+    <div class="headline">
+        <p>V i r t u a l</p>
+        <p>D&nbsp&nbspi&nbsp&nbspc&nbsp&nbspe</p>
+    </div> 
+    <div class="place">
+        <p id="para"></p>
     </div>
-    <p class="para">Random No:  <b id="place">X</b></p>
+
+    <div class="buttons">
+        <span>
+            <input id="activate" type="button" name="" value="Roll Dice" onclick="genrateRandomNo()">
+        </span>
+        <span>
+            <input id="reset" type="button" name="" value="Reset" onclick="resetRandomNo()">
+        </span>
+    </div>
     <footer>
         <div class="footer">
-            <p>A project by Uday Ingale</p>
+            <p>A project by -&nbsp; Uday Ingale</p>
         </div>
     </footer>
 
