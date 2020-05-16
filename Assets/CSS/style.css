@@ -48,7 +48,7 @@ body {
     height: 50px;
     float: right;
     margin-right: 40px;
-    font-weight: 600;
+    font-weight: 400;
     font-size: 1.2em;
 }
 
@@ -57,7 +57,7 @@ body {
     color: grey;
     margin-top: 165px;
     text-align: center;
-    font-weight: 400;
+    font-weight: 300;
     height: 50px;
     line-height: 50px;
     font-size: 0.8em;
