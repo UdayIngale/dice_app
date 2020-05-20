@@ -13,6 +13,9 @@ body {
     font-family: 'Montserrat', sans-serif;
     
 }
+.body {
+    background-color: rgba(0, 0, 0, 0.1);
+}
 .headline {
     margin-top: 15px;
     font-size: 70px;
@@ -36,7 +39,7 @@ body {
     width:  140px;
     height: 50px;
     float: left;
-    margin-left: 40px;
+    margin-left: 65px;
     font-weight: 400;
     font-size: 1.2em;
 
@@ -47,7 +50,7 @@ body {
     width: 140px;
     height: 50px;
     float: right;
-    margin-right: 40px;
+    margin-right: 65px;
     font-weight: 400;
     font-size: 1.2em;
 }
