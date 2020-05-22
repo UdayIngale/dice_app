@@ -53,6 +53,7 @@ hr { display: block;
     margin-left: 65px;
     font-weight: 400;
     font-size: 1.2em;
+    cursor: pointer;
 
 }
 #reset {
@@ -64,6 +65,7 @@ hr { display: block;
     margin-right: 65px;
     font-weight: 400;
     font-size: 1.2em;
+    cursor: pointer;
 }
 
 
