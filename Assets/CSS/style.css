@@ -24,8 +24,7 @@ body {
 hr { display: block;
     margin-top: 20px; 
     margin-left: 30px;
-     margin-right: 30px; /*margin-start: auto; */
-    /* margin-end: auto; overflow: hidden;  */
+    margin-right: 30px; 
     border-style: inset; 
     border-width: 1px;}
 .place {
