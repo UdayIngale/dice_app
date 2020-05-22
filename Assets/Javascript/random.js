@@ -57,6 +57,6 @@ else   {
 
 let resetRandomNo = function() {
     var none = document.getElementById("imag")
-    none.src = "dice.gif"
+    none.src = "Assets/Dices/dice.gif"
 }
 
